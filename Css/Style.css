@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "poppins", sans-serif;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: -150px;
+    font-size: 50px;
+
+}
+nav{
+    background-color: red;
+    width: 100vw;
+    height: 220px;
+
+}
+nav ul li{
+    color: black;
+    font-size: 20px;
+    margin: 75px;
+    list-style: none;
+    display : inline-block;
+    position:relative;
+    top: -150px;
+    border: 1px solid black;
+    padding: 10px
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    padding: 20px;
+    width: 130px;
+    height: 150px;
+    text-decoration: none;
+}
+main{
+    background-color: grey;
+    width: 100vw;
+}
+.div-monumental{
+    text-align: center;
+}
+.monumental{
+    height: 75vh;
+    width: 75vw;
+    margin: 0 auto
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.div-h3 img{
+    text-align: center;
+    width: 800px;
+    height: 30%;
+    position: relative;
+    left: 250px;
+}
+h4{
+    text-align: center;
+}
+.partidos{
+    width: 800px;
+    height: 30%;
+    position: relative;
+    left: 250px;
+}
+footer div{
+    background-color:red ;
+    width: 100vw;
+}
+.contactos{
+    text-align: end;
+}
+.redes{
+    position: relative;
+    top: 25px
+}
